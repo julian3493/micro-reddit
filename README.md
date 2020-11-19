@@ -1,24 +1,58 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Micro-reddit
 
-Things you may want to cover:
+> This project is a practice for Active records in Ruby on Rails framework
 
-* Ruby version
 
-* System dependencies
+We implement migrations and models to complete the task.
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby 2.7.2
+- Ruby on Rails 6
+- VS code
 
-* Database initialization
 
-* How to run the test suite
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
-* Services (job queues, cache servers, search engines, etc.)
+- You need Ruby 2.7.2 and rails >= 6.0.3.4
+- Open a terminal or command prompt interface on your PC.
+- Clone the repo with: git clone https://github.com/julian3493/micro-reddit.git
+- On the terminal navigate to the project directory using cd micro-reddit/
+- run bundle install
 
-* Deployment instructions
 
-* ...
+
+
+## Authors
+
+👤 **Kender Bolivar**
+
+- GitHub: [@kenderb](https://github.com/ken)
+- Twitter: [@twitterhandle](https://twitter.com/KBTarts )
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kender-bolivar-1736086b/ )
+
+
+👤 **Julian Ramos**
+
+- GitHub: [@julian3493](https://github.com/julian3493)
+- Twitter: [@JulianR16893833](https://twitter.com/JulianR16893833)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/juli%C3%A1n-ricardo-ramos-arevalo-3868ba135/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/julian3493/micro-reddit/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- We3schools
+- Stack Overflow
+- Odin Project.
