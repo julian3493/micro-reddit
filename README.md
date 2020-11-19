@@ -2,7 +2,7 @@
 
 # Micro-reddit
 
-> This project is a protice for Active records in Roby on Rails framework
+> This project is a practice for Active records in Ruby on Rails framework
 
 
 We implement migrations and models to complete the task.
