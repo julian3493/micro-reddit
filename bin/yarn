@@ -1,3 +1,4 @@
+# rubocop:disable All
 #!/usr/bin/env ruby.exe
 APP_ROOT = File.expand_path('..', __dir__)
 Dir.chdir(APP_ROOT) do
@@ -7,3 +8,4 @@ rescue Errno::ENOENT
   warn 'Download Yarn at https://yarnpkg.com/en/docs/install'
   exit 1
 end
+# rubocop:enable All
